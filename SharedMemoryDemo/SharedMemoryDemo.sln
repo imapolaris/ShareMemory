@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedMemoryDemo", "SharedMemoryDemo\SharedMemoryDemo.csproj", "{8FBAEF16-8471-4F85-BF16-E20E95DB07E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seecool.ShareMemory", "Seecool.SharedMemory\Seecool.ShareMemory.csproj", "{1E3BA1E0-4504-46BE-885F-ED992064D801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfUIDemo", "WpfUIDemo\WpfUIDemo.csproj", "{24FC48B3-52FD-4675-B058-093E21A0100D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FBAEF16-8471-4F85-BF16-E20E95DB07E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBAEF16-8471-4F85-BF16-E20E95DB07E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBAEF16-8471-4F85-BF16-E20E95DB07E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBAEF16-8471-4F85-BF16-E20E95DB07E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3BA1E0-4504-46BE-885F-ED992064D801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3BA1E0-4504-46BE-885F-ED992064D801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3BA1E0-4504-46BE-885F-ED992064D801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3BA1E0-4504-46BE-885F-ED992064D801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FC48B3-52FD-4675-B058-093E21A0100D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FC48B3-52FD-4675-B058-093E21A0100D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FC48B3-52FD-4675-B058-093E21A0100D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FC48B3-52FD-4675-B058-093E21A0100D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
